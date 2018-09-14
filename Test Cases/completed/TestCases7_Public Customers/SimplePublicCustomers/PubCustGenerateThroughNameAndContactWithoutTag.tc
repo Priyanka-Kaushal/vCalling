@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create a public customer with name and customer ID</description>
+   <name>PubCustGenerateThroughNameAndContactWithoutTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a326121e-267f-43cc-8242-d8735c50a260</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>vCalling regression test cases</description>
+   <name>vCallingDashboard</name>
+   <tag></tag>
+   <UUID>89284a5b-98c5-4fc5-a7d3-4ddfdc282947</UUID>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

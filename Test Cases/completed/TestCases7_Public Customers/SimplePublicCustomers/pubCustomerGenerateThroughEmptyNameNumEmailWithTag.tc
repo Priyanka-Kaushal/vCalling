@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a public customer through Email Id with Tag</description>
+   <name>pubCustomerGenerateThroughEmptyNameNumEmailWithTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d953f277-4be5-4c9c-afe4-9cab3e9be683</testCaseGuid>
+</TestCaseEntity>

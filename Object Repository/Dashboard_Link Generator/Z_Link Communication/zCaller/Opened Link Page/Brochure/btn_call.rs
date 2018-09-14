@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_call</name>
+   <tag></tag>
+   <elementGuidId>8ea9f671-4573-4786-a6c7-1053b4365602</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;react-container&quot;)/div[@class=&quot;react-panos&quot;]/div[@class=&quot;calling-home-page-container&quot;]/div[@class=&quot;brochure-button-test&quot;]/canvas[@class=&quot;brochure-button-test-button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brochure-button-test-button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-container&quot;)/div[@class=&quot;react-panos&quot;]/div[@class=&quot;calling-home-page-container&quot;]/div[@class=&quot;brochure-button-test&quot;]/canvas[@class=&quot;brochure-button-test-button&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

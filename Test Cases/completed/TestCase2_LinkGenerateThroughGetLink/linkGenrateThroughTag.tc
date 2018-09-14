@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Link generate through Tag</description>
+   <name>linkGenrateThroughTag</name>
+   <tag>Link generator functionality</tag>
+   <comment></comment>
+   <testCaseGuid>597e2527-f6c0-490b-8340-98142a38c2dc</testCaseGuid>
+</TestCaseEntity>

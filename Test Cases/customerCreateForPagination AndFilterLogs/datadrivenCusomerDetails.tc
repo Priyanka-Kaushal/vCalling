@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>datadrivenCusomerDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc10dbca-a7bb-4647-93fd-e1e5b056cab3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b7bdd57a-4637-4a2d-8c37-08271e2c3c8c</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1433a5ea-f5d5-4206-be82-205354ce10e7</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1761699e-0876-44df-906c-10dfae5baace</id>
+      <masked>false</masked>
+      <name>number</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5155b911-6016-405e-af14-34e9f88c2dc2</id>
+      <masked>false</masked>
+      <name>Tag</name>
+   </variable>
+</TestCaseEntity>

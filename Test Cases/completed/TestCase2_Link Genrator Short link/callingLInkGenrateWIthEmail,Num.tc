@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Calling Link genrate with email id and number</description>
+   <name>callingLInkGenrateWIthEmail,Num</name>
+   <tag>Functional</tag>
+   <comment></comment>
+   <testCaseGuid>b7cb7048-f10a-41a7-9b85-ade6e1fb64e5</testCaseGuid>
+</TestCaseEntity>

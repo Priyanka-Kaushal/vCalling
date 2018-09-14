@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>save notes and click on activity log</description>
+   <name>saveNotesAndBackThroughActivityLog</name>
+   <tag>Functionality of Activity Log</tag>
+   <comment></comment>
+   <testCaseGuid>c9865f96-db03-4ed3-ab7a-899bee002489</testCaseGuid>
+</TestCaseEntity>

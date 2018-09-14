@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>add-team-member-checkbox</name>
+   <tag></tag>
+   <elementGuidId>a9ecb8c7-11e2-4019-8915-57c9f0622bc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'add-team-member-checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-team-member-checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main-container&quot;]/div[1]/div[@class=&quot;dashboard-subcontainer&quot;]/div[1]/div[@class=&quot;add-team-member-screen&quot;]/div[@class=&quot;add-team-member-container&quot;]/div[5]/div[@class=&quot;add-team-member-checkbox&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkbox_Send Via</name>
+   <tag></tag>
+   <comment>Email Phone - CPhone CEmail</comment>
+   <testCaseGuid>9d6aaf8b-4927-4686-9cf8-8a99d3c9046b</testCaseGuid>
+</TestCaseEntity>

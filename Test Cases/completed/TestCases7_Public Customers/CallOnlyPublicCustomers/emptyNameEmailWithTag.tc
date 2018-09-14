@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a call only public customer through empty name and email with tag</description>
+   <name>emptyNameEmailWithTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5caf7eb6-371f-461f-b228-cd5ffef688cf</testCaseGuid>
+</TestCaseEntity>

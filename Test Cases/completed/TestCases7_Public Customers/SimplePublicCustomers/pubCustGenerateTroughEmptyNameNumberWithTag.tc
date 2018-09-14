@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create a customer through Number with tag</description>
+   <name>pubCustGenerateTroughEmptyNameNumberWithTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd4fccf-ee6c-40bd-9bed-2fbb58d0c510</testCaseGuid>
+</TestCaseEntity>

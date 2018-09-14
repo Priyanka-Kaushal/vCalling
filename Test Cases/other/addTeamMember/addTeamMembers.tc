@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin add team members</description>
+   <name>addTeamMembers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d123008-a19b-4de6-b396-8e93cce33bca</testCaseGuid>
+</TestCaseEntity>

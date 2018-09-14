@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When Email entered is invalid or not in the database</description>
+   <name>Email_Invalid</name>
+   <tag>Email is either invalid or not in database</tag>
+   <comment></comment>
+   <testCaseGuid>9f7038ef-5a10-4892-b131-3f0a9fd24da4</testCaseGuid>
+</TestCaseEntity>

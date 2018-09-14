@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>calling link genrate with custoamer full information</description>
+   <name>callingLinkGenrateWithTag</name>
+   <tag>Functional</tag>
+   <comment></comment>
+   <testCaseGuid>2fe1ec9f-1829-4b57-a498-d1b2048f4743</testCaseGuid>
+</TestCaseEntity>

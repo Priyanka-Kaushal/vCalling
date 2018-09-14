@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click on Acivity log button</description>
+   <name>clearNotesAndClickOnActivitylog</name>
+   <tag>Functionality of Activity log button</tag>
+   <comment></comment>
+   <testCaseGuid>f386c249-d1b4-430f-880b-e2052634d622</testCaseGuid>
+</TestCaseEntity>

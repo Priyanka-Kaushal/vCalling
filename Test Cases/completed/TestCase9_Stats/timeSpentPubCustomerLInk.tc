@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>end to end test cases for public customer time spent</description>
+   <name>timeSpentPubCustomerLInk</name>
+   <tag>Functionality of Public customer time spent</tag>
+   <comment></comment>
+   <testCaseGuid>faa21d54-759f-4661-8f9f-ac9798aaf9d7</testCaseGuid>
+</TestCaseEntity>

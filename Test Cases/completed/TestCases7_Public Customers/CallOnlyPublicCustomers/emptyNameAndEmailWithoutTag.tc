@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create a call only public link through empty name and enter Email Id without tag</description>
+   <name>emptyNameAndEmailWithoutTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d22e6116-1a43-4d39-9c26-dc9b1d3fa3e0</testCaseGuid>
+</TestCaseEntity>

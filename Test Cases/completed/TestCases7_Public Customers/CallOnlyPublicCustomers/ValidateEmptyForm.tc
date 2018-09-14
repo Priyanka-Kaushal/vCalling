@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>validate public customer empty form</description>
+   <name>ValidateEmptyForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd6785bf-d0ed-4a20-8dee-e02764a64096</testCaseGuid>
+</TestCaseEntity>

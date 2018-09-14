@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter tag and time  spent both ata the same time</description>
+   <name>jtagATimeSpent</name>
+   <tag>functionality of filter</tag>
+   <comment></comment>
+   <testCaseGuid>42a6e012-c1eb-4c2a-a857-b1f908386056</testCaseGuid>
+</TestCaseEntity>

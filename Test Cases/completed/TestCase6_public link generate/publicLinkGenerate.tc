@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>public link generator functionality</description>
+   <name>publicLinkGenerate</name>
+   <tag>Functionality of Public link generator</tag>
+   <comment></comment>
+   <testCaseGuid>de6cc2a1-ff90-48d1-8a67-a5557d0b2826</testCaseGuid>
+</TestCaseEntity>

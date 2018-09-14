@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click clear notes button</description>
+   <name>clearNotes</name>
+   <tag>functionality of clear notes</tag>
+   <comment></comment>
+   <testCaseGuid>b02c5c2a-f595-4025-a671-157945c30e1a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Video</name>
+   <tag></tag>
+   <elementGuidId>40848404-1b75-4cfd-aeb7-532f2cae2b2b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1wjpf _3NFp9</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Video</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pane-side&quot;)/div[1]/div[1]/div[@class=&quot;RLfQR&quot;]/div[@class=&quot;_2wP_Y&quot;]/div[1]/div[@class=&quot;_2EXPL _1f1zm&quot;]/div[@class=&quot;_3j7s9&quot;]/div[@class=&quot;_1AwDx&quot;]/div[@class=&quot;_itDl&quot;]/span[@class=&quot;_2_LEW&quot;]/span[@class=&quot;_1wjpf _3NFp9&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

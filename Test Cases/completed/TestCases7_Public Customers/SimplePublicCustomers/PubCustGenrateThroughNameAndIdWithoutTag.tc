@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create a pub link with name and customer id</description>
+   <name>PubCustGenrateThroughNameAndIdWithoutTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c289c8cd-8d51-475c-8550-b8836ed81346</testCaseGuid>
+</TestCaseEntity>

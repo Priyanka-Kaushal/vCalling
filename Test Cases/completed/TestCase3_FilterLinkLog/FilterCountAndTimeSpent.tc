@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter functionality of count and time spent</description>
+   <name>FilterCountAndTimeSpent</name>
+   <tag>Filter Functionality of link logs</tag>
+   <comment></comment>
+   <testCaseGuid>ab6698ec-e7ef-4c0a-957b-feb7fc196d53</testCaseGuid>
+</TestCaseEntity>

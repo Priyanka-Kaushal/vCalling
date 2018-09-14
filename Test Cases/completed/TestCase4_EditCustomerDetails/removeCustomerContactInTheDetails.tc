@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Remove the contact number though customer details</description>
+   <name>removeCustomerContactInTheDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7926c27-c687-42d9-b881-2642b217307f</testCaseGuid>
+</TestCaseEntity>

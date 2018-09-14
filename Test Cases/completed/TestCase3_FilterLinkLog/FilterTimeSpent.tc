@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter time spent in the link logs</description>
+   <name>FilterTimeSpent</name>
+   <tag>functionality of time spent</tag>
+   <comment></comment>
+   <testCaseGuid>303d10e3-4ba6-4754-8f20-c729e8fb14e9</testCaseGuid>
+</TestCaseEntity>

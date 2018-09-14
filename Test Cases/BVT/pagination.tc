@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>click on active pagination</description>
+   <name>pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5bd5045-5fab-4552-acff-534b8574983b</testCaseGuid>
+</TestCaseEntity>

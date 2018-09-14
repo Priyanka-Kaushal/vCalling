@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a public customer through Name, Number with tag</description>
+   <name>emptyNameNumberWithTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04793778-e0fd-4b7d-a0e6-5d998e6ea5a9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Remove cutsomer details Email ID</description>
+   <name>RemoveCustomerIDin theDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcfb77e8-b7e6-4868-a443-28f06e81e039</testCaseGuid>
+</TestCaseEntity>

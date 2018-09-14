@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Generate Public link with Tag</description>
+   <name>pubLinkWIthTag</name>
+   <tag>Functionality of Public link generate with tag</tag>
+   <comment></comment>
+   <testCaseGuid>3fda5de7-e321-4f3c-b37d-0f1a7c8d1e47</testCaseGuid>
+</TestCaseEntity>

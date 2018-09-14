@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_calling-page-logo</name>
+   <tag></tag>
+   <elementGuidId>03b81c5d-e102-4fa2-9a9f-3f5e7d21a76a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//svg[count(. | id(&quot;react-container&quot;)/div[@class=&quot;react-panos&quot;]/div[@class=&quot;calling-home-page-container&quot;]/div[@class=&quot;calling-page-container&quot;]/div[@class=&quot;calling-page-sub-container&quot;]/div[@class=&quot;calling-page-logo&quot;]/svg[@class=&quot;calling-page-logo&quot;]) = count(id(&quot;react-container&quot;)/div[@class=&quot;react-panos&quot;]/div[@class=&quot;calling-home-page-container&quot;]/div[@class=&quot;calling-page-container&quot;]/div[@class=&quot;calling-page-sub-container&quot;]/div[@class=&quot;calling-page-logo&quot;]/svg[@class=&quot;calling-page-logo&quot;])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calling-page-logo</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 705.65 762.64</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-container&quot;)/div[@class=&quot;react-panos&quot;]/div[@class=&quot;calling-home-page-container&quot;]/div[@class=&quot;calling-page-container&quot;]/div[@class=&quot;calling-page-sub-container&quot;]/div[@class=&quot;calling-page-logo&quot;]/svg[@class=&quot;calling-page-logo&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

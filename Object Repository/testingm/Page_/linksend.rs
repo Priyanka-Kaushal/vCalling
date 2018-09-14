@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linksend</name>
+   <tag></tag>
+   <elementGuidId>9362fb74-5e3a-45e4-9a6b-09b2fdf9872d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/div[@class=&quot;main-container&quot;]/div[1]/div[@class=&quot;dashboard-subcontainer&quot;]/div[1]/div[@class=&quot;stats-container&quot;]/div[@class=&quot;sub-stats-container&quot;]/div[@class=&quot;link-stats&quot;]/div[@class=&quot;section-container&quot;]/div[@class=&quot;sec-1&quot;]/div[@class=&quot;sec-number&quot;][count(. | //div[@class = 'sec-number']) = count(//div[@class = 'sec-number'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sec-number</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main-container&quot;]/div[1]/div[@class=&quot;dashboard-subcontainer&quot;]/div[1]/div[@class=&quot;stats-container&quot;]/div[@class=&quot;sub-stats-container&quot;]/div[@class=&quot;link-stats&quot;]/div[@class=&quot;section-container&quot;]/div[@class=&quot;sec-1&quot;]/div[@class=&quot;sec-number&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

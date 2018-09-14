@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Link genrate through number with call</description>
+   <name>callingLinkGenrateWithNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee91d16d-37b5-4056-8f3b-546354b49984</testCaseGuid>
+</TestCaseEntity>

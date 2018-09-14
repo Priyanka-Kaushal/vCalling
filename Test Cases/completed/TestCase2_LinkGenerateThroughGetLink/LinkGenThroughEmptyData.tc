@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Link Generate through empty data</description>
+   <name>LinkGenThroughEmptyData</name>
+   <tag>Functionlity of link generator</tag>
+   <comment></comment>
+   <testCaseGuid>7bec1b9f-24e8-4f8f-a3bf-3f7933ff8303</testCaseGuid>
+</TestCaseEntity>

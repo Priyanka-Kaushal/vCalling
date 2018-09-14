@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>end to end test case for tag and time spent filter</description>
+   <name>tagAndTimeSpentFilter</name>
+   <tag>Funtionality of filter</tag>
+   <comment></comment>
+   <testCaseGuid>911f3a00-4979-4372-8cde-68d558257b45</testCaseGuid>
+</TestCaseEntity>

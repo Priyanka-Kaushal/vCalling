@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Link open Count filter</description>
+   <name>linkOpenCountFilter</name>
+   <tag>Functionality of link open count</tag>
+   <comment></comment>
+   <testCaseGuid>4e6ee546-b348-49bd-b16a-d074973dd4f7</testCaseGuid>
+</TestCaseEntity>

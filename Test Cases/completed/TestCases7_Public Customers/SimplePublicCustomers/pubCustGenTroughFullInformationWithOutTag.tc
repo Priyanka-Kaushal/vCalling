@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill the Customer Id in the form</description>
+   <name>pubCustGenTroughFullInformationWithOutTag</name>
+   <tag>Customer Id fill the form</tag>
+   <comment></comment>
+   <testCaseGuid>a8df6a51-4432-4f7e-920f-82a61ce55ceb</testCaseGuid>
+</TestCaseEntity>

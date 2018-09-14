@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>ec923e62-d9ee-45ca-8e98-7441f7a24777</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>https://test.vcalling.in/enterprise/MahindraSYouV/?timeStamp=MahindraSYouV_testing4dea@gmail.com_1509905923577&amp;&amp;node=true#I01haGluZHJhU1lvdVYjdGVzdGluZzRkZWFAZ21haWwuY29tI0Fub255bW91cyNBbm9ueW1vdXMjQW5vbnltb3VzI0dlbg==</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-container&quot;)/div[@class=&quot;react-panos&quot;]/div[@class=&quot;calling-home-page-container&quot;]/div[1]/div[@class=&quot;pano-container&quot;]/div[1]/div[@class=&quot;vCalling-link&quot;]/div[@class=&quot;link-box&quot;]/input[1]</value>
+   </webElementProperties>
+</WebElementEntity>

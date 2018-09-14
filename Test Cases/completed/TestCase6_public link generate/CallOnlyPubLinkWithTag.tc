@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Generate Call only Public link</description>
+   <name>CallOnlyPubLinkWithTag</name>
+   <tag>Functionality of call only public link log with tag</tag>
+   <comment></comment>
+   <testCaseGuid>0ad91af7-d494-4395-9bb1-2f6c583a7ca1</testCaseGuid>
+</TestCaseEntity>

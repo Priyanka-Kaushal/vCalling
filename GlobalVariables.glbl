@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://dev.vcalling.in/enterprises/UAT/Dashboard/index.html'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'testing4dea@gmail.com'</initValue>
+      <name>Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dhavalkriplani@411'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'property'</initValue>
+      <name>Extra_Tag</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Kindly enter proper values and select proper checkbox'</initValue>
+      <name>Alert_Wrong_Input</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SMS and Email Sent.!'</initValue>
+      <name>validation_email_sms_send</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dhaval kriplani'</initValue>
+      <name>Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'8955588935'</initValue>
+      <name>Mobile_Number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Email Sent.!'</initValue>
+      <name>validation_mail_send</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SMS Sent.!'</initValue>
+      <name>validation_phone_smsSend</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Link Copied.!'</initValue>
+      <name>copy_link</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Cannot send.!'</initValue>
+      <name>validation_checkboxNotSelected</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Details Updated, Please refresh logs for updated details'</initValue>
+      <name>saveEditAlert</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Team Member Added.!'</initValue>
+      <name>teamMemberAdded</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Details Updated'</initValue>
+      <name>detailsUpdated</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Team Member Deleted'</initValue>
+      <name>deleteMemberDetails</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Short Link Copied.!'</initValue>
+      <name>shortLinkCopy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4Gw25TH'</initValue>
+      <name>teamMeberName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0'</initValue>
+      <name>linkSent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0'</initValue>
+      <name>linkOpened</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'priyanka'</initValue>
+      <name>editName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0'</initValue>
+      <name>counInitial</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Short Link Copied.!'</initValue>
+      <name>shortLinkCopied</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1'</initValue>
+      <name>tagsCount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Email and Name are compulsory'</initValue>
+      <name>validationNameEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Email is Incorrect'</initValue>
+      <name>invalidEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Phone Number is Incorrect'</initValue>
+      <name>invalidNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'--'</initValue>
+      <name>nameEmpty</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1@maildrop.cc'</initValue>
+      <name>fakeMail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please enter either Phone or Email'</initValue>
+      <name>noInformation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'P'</initValue>
+      <name>tag</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please enter atleast one field to filter'</initValue>
+      <name>tagValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2'</initValue>
+      <name>timespent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0'</initValue>
+      <name>linkOpenCount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please enter atleast one field to filter'</initValue>
+      <name>timeSpentValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please select country code'</initValue>
+      <name>countryCodeValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Can\'t remove both email and phone number'</initValue>
+      <name>removeCustomerDetailValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Note Added.!'</initValue>
+      <name>notesAddedValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>blankNotesBox</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Only Numeric time spent allowed'</initValue>
+      <name>alphabetValidation</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Agent login with invalid email Id</description>
+   <name>LoginInvalidEmail</name>
+   <tag>Invalid email Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>02229fb9-6675-4c78-9425-af21cc54cb7e</testCaseGuid>
+</TestCaseEntity>

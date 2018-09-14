@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>end to end test cases for time spent filter</description>
+   <name>timeSpentFilter</name>
+   <tag>Functionality of time spent filter</tag>
+   <comment></comment>
+   <testCaseGuid>b9deb3c6-533e-4ea8-bdfa-08377284b4b1</testCaseGuid>
+</TestCaseEntity>

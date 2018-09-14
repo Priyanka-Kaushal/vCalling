@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with valid email Id and OTP</description>
+   <name>LoginValidEmail</name>
+   <tag>Login Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>f4350fa0-b460-4a8b-8bed-0d3337b0ead5</testCaseGuid>
+</TestCaseEntity>

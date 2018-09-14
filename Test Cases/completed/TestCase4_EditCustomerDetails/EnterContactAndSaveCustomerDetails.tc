@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter the Conatct and save customer details</description>
+   <name>EnterContactAndSaveCustomerDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a764c382-9670-45bf-91fc-c7b9fb2d37a8</testCaseGuid>
+</TestCaseEntity>

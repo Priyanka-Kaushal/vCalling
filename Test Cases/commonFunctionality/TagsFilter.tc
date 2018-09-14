@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tag End to End Test cases</description>
+   <name>TagsFilter</name>
+   <tag>Functionlity of tag</tag>
+   <comment></comment>
+   <testCaseGuid>11fd4ab0-a1f9-4192-9daa-e7114a5ecce5</testCaseGuid>
+</TestCaseEntity>

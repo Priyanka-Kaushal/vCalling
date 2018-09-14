@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Themes</name>
+   <tag></tag>
+   <elementGuidId>600c5ba7-f877-4f5d-a03b-01367b77e186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[count(. | //*[@class = 'ptour-tabs']) = count(//*[@class = 'ptour-tabs'])][count(. | //*[text() = 'Themes']) = count(//*[text() = 'Themes'])][count(. | //div[@class=&quot;ptour-tabs-container&quot;]/div[@class=&quot;ptour-tabs&quot;]) = count(//div[@class=&quot;ptour-tabs-container&quot;]/div[@class=&quot;ptour-tabs&quot;])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ptour-tabs</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Themes</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;ptour-tabs-container&quot;]/div[@class=&quot;ptour-tabs&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

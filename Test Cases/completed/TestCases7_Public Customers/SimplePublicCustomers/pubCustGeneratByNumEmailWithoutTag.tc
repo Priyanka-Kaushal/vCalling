@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a public customer through Number, Email without tag</description>
+   <name>pubCustGeneratByNumEmailWithoutTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5dd9fe1-0f4c-4511-ad71-c2f3d3f688a7</testCaseGuid>
+</TestCaseEntity>

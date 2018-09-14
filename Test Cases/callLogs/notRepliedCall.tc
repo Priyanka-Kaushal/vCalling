@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>End to End test cases of not replied call  logs</description>
+   <name>notRepliedCall</name>
+   <tag>functionality of not replied call logs</tag>
+   <comment></comment>
+   <testCaseGuid>b4e8be6e-7b30-4a14-9f08-4d8c948dd315</testCaseGuid>
+</TestCaseEntity>

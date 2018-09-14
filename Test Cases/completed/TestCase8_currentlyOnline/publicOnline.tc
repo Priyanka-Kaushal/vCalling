@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Public Link log is displayed in the current online tab</description>
+   <name>publicOnline</name>
+   <tag>Functionality</tag>
+   <comment></comment>
+   <testCaseGuid>904d9a30-34a2-46b8-8b56-4991666f0f75</testCaseGuid>
+</TestCaseEntity>

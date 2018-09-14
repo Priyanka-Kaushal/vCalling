@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkSentStatsTag</name>
+   <tag></tag>
+   <elementGuidId>9222e939-613d-491b-989a-51bb9b7dc766</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sec-number</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main-container&quot;]/div[1]/div[@class=&quot;dashboard-subcontainer&quot;]/div[1]/div[@class=&quot;stats-container&quot;]/div[@class=&quot;sub-stats-container&quot;]/div[@class=&quot;link-stats&quot;]/div[@class=&quot;section-container&quot;]/div[@class=&quot;sec-1&quot;]/div[@class=&quot;sec-number&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

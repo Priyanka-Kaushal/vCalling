@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create a public link though name, Num WithoutTag</description>
+   <name>nameNumWithoutTagPubCust</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a230fb1f-4ac2-4d7f-9b10-51b0ae4213a4</testCaseGuid>
+</TestCaseEntity>

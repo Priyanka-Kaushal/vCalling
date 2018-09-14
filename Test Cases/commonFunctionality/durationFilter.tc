@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>End to End test cases for duration filter</description>
+   <name>durationFilter</name>
+   <tag>Functionality of duration</tag>
+   <comment></comment>
+   <testCaseGuid>78dbb692-5cc0-4d1b-9acf-0ffce1d962b2</testCaseGuid>
+</TestCaseEntity>

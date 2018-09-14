@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter tag in the lonk logs</description>
+   <name>gFilterTag</name>
+   <tag>Functionality of link log tags</tag>
+   <comment></comment>
+   <testCaseGuid>56c8d60f-318e-457d-87cd-0d5b7ca8f34c</testCaseGuid>
+</TestCaseEntity>

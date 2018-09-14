@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create a pulic customer though name, Email and number without tag</description>
+   <name>emptyNameEmailNumAndWithoutTag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e520cea5-16cb-4f8d-84f7-efe413b5d286</testCaseGuid>
+</TestCaseEntity>

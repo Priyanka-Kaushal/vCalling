@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter tag and count both in the link logs</description>
+   <name>tagAndCount</name>
+   <tag>functionality of Link Log Filter</tag>
+   <comment></comment>
+   <testCaseGuid>f98a0da6-47b8-428b-b899-c0d3420711c5</testCaseGuid>
+</TestCaseEntity>

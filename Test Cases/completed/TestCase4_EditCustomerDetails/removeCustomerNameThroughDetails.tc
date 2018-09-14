@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Remove the email id through details</description>
+   <name>removeCustomerNameThroughDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5c39f13-c336-42a2-90ed-06e6d364c249</testCaseGuid>
+</TestCaseEntity>

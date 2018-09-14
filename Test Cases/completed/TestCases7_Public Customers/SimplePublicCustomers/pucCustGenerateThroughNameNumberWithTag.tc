@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>fill the customer name and contact in the form</description>
+   <name>pucCustGenerateThroughNameNumberWithTag</name>
+   <tag>functionality</tag>
+   <comment></comment>
+   <testCaseGuid>cfe09ebc-8b7f-482b-9d32-81539bb3d17f</testCaseGuid>
+</TestCaseEntity>

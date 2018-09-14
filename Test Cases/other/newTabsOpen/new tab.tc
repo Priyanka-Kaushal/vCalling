@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>multiple tab open in the same browser</description>
+   <name>new tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42bf4a02-9de2-4f32-9ed2-1416a9b900a1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Notes in the customer profile</description>
+   <name>addNotes</name>
+   <tag>Functionality of Notes</tag>
+   <comment></comment>
+   <testCaseGuid>d1b811a3-5397-4107-9c86-a585023c3beb</testCaseGuid>
+</TestCaseEntity>

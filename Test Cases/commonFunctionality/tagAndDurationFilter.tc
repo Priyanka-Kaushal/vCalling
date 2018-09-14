@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create End to End test cases for Tag and Duration filter</description>
+   <name>tagAndDurationFilter</name>
+   <tag>Functionality of Tag and duration filter</tag>
+   <comment></comment>
+   <testCaseGuid>437d1aee-0164-46c1-94f7-e287ac05f206</testCaseGuid>
+</TestCaseEntity>

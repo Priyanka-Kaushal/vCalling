@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Options</name>
+   <tag></tag>
+   <elementGuidId>2d54ab1b-d08a-4ddc-9734-490d6773c5f0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>options</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-container&quot;)/div[@class=&quot;react-panos&quot;]/div[@class=&quot;calling-home-page-container&quot;]/div[1]/div[@class=&quot;pano-container&quot;]/div[1]/div[@class=&quot;info-screen info-screen-fade-in&quot;]/div[@class=&quot;topbar topbar-fade-in&quot;]/div[@class=&quot;options&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
